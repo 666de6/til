@@ -1,6 +1,10 @@
-# Day 10
-
-## number & dot
+<!--
+ * @Author: Ada J
+ * @Date: 2022-06-21 10:30:27
+ * @LastEditTime: 2022-06-21 11:23:34
+ * @Description: 
+-->
+# Day 10 - number & dot
 
 **number**
 `operation + number + action/range`

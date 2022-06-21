@@ -1,11 +1,11 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-06-11 22:38:34
- * @LastEditTime: 2022-06-12 12:18:30
+ * @LastEditTime: 2022-06-21 11:23:22
  * @Description: 
 -->
-# Day 09
-## jump to anywhere
+# Day 09 - jump to anywhere
+
 **vim-easymotion**
 * `leader + leader + w`-> highlight the beginning of word(forward) 
 * `leader + leader + e`-> highlight the end of word(forward) 

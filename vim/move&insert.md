@@ -1,11 +1,11 @@
 <!--
  * @Author: Ada
  * @Date: 2022-06-01 20:56:41
- * @LastEditTime: 2022-06-12 12:31:32
- * @Description: vim direction
+ * @LastEditTime: 2022-06-21 11:16:35
+ * @Description: 
 -->
 
-# Day 01
+# Day 01 - move & insert
 
 **move**
 * `h` -> left

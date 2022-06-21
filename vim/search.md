@@ -1,11 +1,11 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-06-08 21:48:11
- * @LastEditTime: 2022-06-12 12:13:43
+ * @LastEditTime: 2022-06-21 11:22:52
  * @Description: how to search 
 -->
-# Day 08
-## search
+# Day 08 - search
+
 **inline**
 * `f` -> move forward to the next
 * `F` -> move backward to the last

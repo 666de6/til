@@ -1,11 +1,11 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-06-19 17:54:01
- * @LastEditTime: 2022-06-21 11:01:53
+ * @LastEditTime: 2022-06-21 11:26:27
  * @Description: delete a function 
 -->
-# Day 16
-## delete a function
+# Day 16 - delete a function
+
 * `%` -> match brackets( () or {} or [])
 
 **vim-indent-object**

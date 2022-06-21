@@ -1,11 +1,11 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-06-07 22:40:36
- * @LastEditTime: 2022-06-12 12:25:07
+ * @LastEditTime: 2022-06-21 11:21:12
  * @Description: 
 -->
-# Day 06
-## text object
+# Day 06 - text object
+
 **syntax**
 * operator + （internal (i)/ external(a)）+ text object
 * visual mode + （internal (i)/ external(a)）+ text object

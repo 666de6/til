@@ -1,11 +1,11 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-06-18 20:36:13
- * @LastEditTime: 2022-06-18 21:59:33
+ * @LastEditTime: 2022-06-21 11:26:00
  * @Description: 
 -->
-# Day 15
-## windows management(I prefer the vscode shortcuts)
+# Day 15 - windows management(I prefer the vscode shortcuts)
+
 ### vim 
 **create a new window**
 * `ctrl + w + v` -> on the right

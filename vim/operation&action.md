@@ -1,13 +1,11 @@
 <!--
  * @Author: your name
  * @Date: 2022-06-01 20:56:41
- * @LastEditTime: 2022-06-12 12:29:55
+ * @LastEditTime: 2022-06-21 11:19:30
  * @Description: 
 -->
 
-# Day 03
-
-## operation + action
+# Day 03 - operation & action
 
 **operation**
 * `d` -> delete  

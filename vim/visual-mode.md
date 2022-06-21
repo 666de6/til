@@ -1,13 +1,11 @@
 <!--
  * @Author: your name
  * @Date: 2022-06-01 20:56:41
- * @LastEditTime: 2022-06-12 12:27:20
+ * @LastEditTime: 2022-06-21 11:20:57
  * @Description: 
 -->
 
-# Day 05
-
-## visual mode = selected + operation
+# Day 05 - visual mode = selected + operation
 
 **switch to visual mode**
 * `v` -> character

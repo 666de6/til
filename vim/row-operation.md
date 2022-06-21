@@ -1,13 +1,11 @@
 <!--
  * @Author: your name
  * @Date: 2022-06-01 20:56:41
- * @LastEditTime: 2022-06-12 12:30:48
+ * @LastEditTime: 2022-06-21 11:18:31
  * @Description: 
 -->
 
-# Day 02
-
-## row operation
+# Day 02 - row operation
 
 * `0`->move to the beginning
 * `^`->move to the beginning(not blank)

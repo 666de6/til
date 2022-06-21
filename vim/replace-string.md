@@ -1,12 +1,12 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-06-16 22:29:51
- * @LastEditTime: 2022-06-16 23:20:34
+ * @LastEditTime: 2022-06-21 11:25:16
  * @Description: 
 -->
 
-# Day 13
-## replace string
+# Day 13 - replace string
+
 **:substitute**
 * `formula` -> `:` + range  + `s` + `/` + pattern `/` + new string + `/` + flags
 * `range` -> `$` (to the end) / `%` (all) / `number,number` (from...to...)

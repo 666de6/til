@@ -1,5 +1,11 @@
-# Day 14
-## show up on hover & convert case & omit
+<!--
+ * @Author: Ada J
+ * @Date: 2022-06-21 10:30:27
+ * @LastEditTime: 2022-06-21 11:25:47
+ * @Description: 
+-->
+# Day 14 - show up on hover & convert case & omit
+
 **show up on hover**
 * `gh` -> show up information on hover
 **convert case**
