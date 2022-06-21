@@ -1,8 +1,8 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-06-19 17:54:01
- * @LastEditTime: 2022-06-19 18:40:56
- * @Description: 
+ * @LastEditTime: 2022-06-21 11:01:53
+ * @Description: delete a function 
 -->
 # Day 16
 ## delete a function
