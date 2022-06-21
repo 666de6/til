@@ -27,9 +27,9 @@ _17 TILs and counting..._
 - [Day 09 - jump to anywhere](vim/jump-to-anywhere.md)
 - [Day 10 - number & dot](vim/number&dot.md)
 - [Day 11 - jump between files](vim/jump-between-files.md)
+- [Day 12 - vim-surround](vim/vim-surround.md)
 - [Day 13 - replace string](vim/replace-string.md)
 - [Day 14 - show up on hover & convert case & omit](vim/convert-case&omit.md)
 - [Day 15 - windows management(I prefer the vscode shortcuts)](vim/window-management.md)
 - [Day 16 - delete a function](vim/delete-function.md)
-- [Day12 - vim-surround](vim/vim-surround.md)
 
