@@ -1,10 +1,10 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-06-23 23:02:01
- * @LastEditTime: 2022-06-23 23:47:44
+ * @LastEditTime: 2022-06-24 22:23:27
  * @Description: 
 -->
-# Day 18 - vscode file operation
+# Day 19 - vscode file operation
 
 **files explorer**
 * `ctrl + ;` -> switch to files explorer

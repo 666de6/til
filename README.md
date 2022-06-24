@@ -2,7 +2,7 @@
 > Today I Learned
 Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 ### Categories
@@ -34,5 +34,6 @@ _20 TILs and counting..._
 - [Day 16 - delete a function](vim/delete-function.md)
 - [Day 17 - macro in vim](vim/macro.md)
 - [Day 18 - call vscode command](vim/call-vscode-command.md)
-- [Day 18 - vscode file operation](vim/file-operation.md)
+- [Day 19 - vscode file operation](vim/file-operation.md)
+- [Day 20 - vscode windows operation](vim/vscode-windows-operation.md)
 
