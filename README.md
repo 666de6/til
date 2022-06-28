@@ -2,14 +2,18 @@
 > Today I Learned
 Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 ### Categories
+* [.vscode](#.vscode)
 * [Keyboard](#keyboard)
 * [Vim](#vim)
 
 ---
+### .vscode
+
+
 ### Keyboard
 
 - [How to customize a 1800mini keyboard](keyboard/1800mini.md)
@@ -38,4 +42,5 @@ _23 TILs and counting..._
 - [Day 20 - vscode windows operation](vim/vscode-windows-operation.md)
 - [Day 21 - search in vscode](vim/vscode-search.md)
 - [Day 22 - shortcuts when coding in vscode](vim/vscode-coding.md)
+- [Day 23 - shortcut-minded](vim/shortcut-minded.md)
 
