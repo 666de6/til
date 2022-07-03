@@ -2,7 +2,7 @@
 > Today I Learned
 Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 ### Categories
@@ -44,5 +44,6 @@ _26 TILs and counting..._
 - [Day 22 - shortcuts when coding in vscode](vim/vscode-coding.md)
 - [Day 23 - shortcut-minded](vim/shortcut-minded.md)
 - [Day 24 - git in vscode](vim/vscode-git.md)
-- [Day 24 - vscode snippets](vim/vscode-snippet.md)
+- [Day 25 - vscode snippets](vim/vscode-snippet.md)
+- [Day 26 - vscode refactor](vim/vscode-refactor.md)
 

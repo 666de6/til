@@ -1,10 +1,10 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-06-28 21:05:46
- * @LastEditTime: 2022-07-01 22:28:15
+ * @LastEditTime: 2022-07-01 22:34:45
  * @Description: 
 -->
-# Day 24 - vscode snippets
+# Day 25 - vscode snippets
 
 **plugins**
 * JavaScript(ES6) code snippets
@@ -21,9 +21,9 @@
 * `rp` -> return new Promise
 
 **create a snippet** 
-[docs](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+* [docs](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 * key takeaways
-* tab position
-* default value
-* multiple selected
-* variable
+  * tab position
+  * default value
+  * multiple selected
+  * variable
