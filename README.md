@@ -2,18 +2,15 @@
 > Today I Learned
 Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_29 TILs and counting..._
+_30 TILs and counting..._
 
 ---
 ### Categories
-* [.vscode](#.vscode)
 * [Keyboard](#keyboard)
 * [Vim](#vim)
+* [Vmware](#vmware)
 
 ---
-### .vscode
-
-
 ### Keyboard
 
 - [How to customize a 1800mini keyboard](keyboard/1800mini.md)
@@ -48,4 +45,8 @@ _29 TILs and counting..._
 - [Day 26 - vscode refactor](vim/vscode-refactor.md)
 - [Day 27 - VSpaceCode](vim/VSpaceCode.md)
 - [Day 28 - lazygit](vim/lazygit.md)
+
+### Vmware
+
+- [How to fix VMware-16.2.3 error after upgrading ubuntu to 22.04](vmware/vmware-16.2.3-in-ubuntu-22.04.md)
 
