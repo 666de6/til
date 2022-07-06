@@ -1,7 +1,7 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-07-04 20:35:28
- * @LastEditTime: 2022-07-04 21:20:30
+ * @LastEditTime: 2022-07-06 11:22:30
  * @Description: 
 -->
 # Day 28 - lazygit
@@ -19,6 +19,7 @@ echo "alias lg='lazygit'" >> ~/.bash_profile
 * stage all files-> `a`
 * commit -> `c`
 * reset -> `g`
-* push -> `p`
+* pull -> `p`
+* push -> `shift + p`
 * discard single file -> `d`
 * discard all files -> `shift + d`
