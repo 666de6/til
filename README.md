@@ -2,7 +2,7 @@
 > Today I Learned
 Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_30 TILs and counting..._
+_31 TILs and counting..._
 
 ---
 ### Categories
@@ -53,4 +53,5 @@ _30 TILs and counting..._
 - [Day 26 - vscode refactor](vscode/vscode-refactor.md)
 - [Day 27 - VSpaceCode](vscode/VSpaceCode.md)
 - [Day 28 - lazygit](vscode/lazygit.md)
+- [Day 29 - terminal in vscode](vscode/terminal.md)
 
