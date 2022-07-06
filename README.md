@@ -9,6 +9,7 @@ _30 TILs and counting..._
 * [Keyboard](#keyboard)
 * [Vim](#vim)
 * [Vmware](#vmware)
+* [Vscode](#vscode)
 
 ---
 ### Keyboard
@@ -35,18 +36,21 @@ _30 TILs and counting..._
 - [Day 16 - delete a function](vim/delete-function.md)
 - [Day 17 - macro in vim](vim/macro.md)
 - [Day 18 - call vscode command](vim/call-vscode-command.md)
-- [Day 19 - vscode file operation](vim/vscode-file-operation.md)
-- [Day 20 - vscode windows operation](vim/vscode-windows-operation.md)
-- [Day 21 - search in vscode](vim/vscode-search.md)
-- [Day 22 - shortcuts when coding in vscode](vim/vscode-coding.md)
-- [Day 23 - shortcut-minded](vim/shortcut-minded.md)
-- [Day 24 - git in vscode](vim/vscode-git.md)
-- [Day 25 - vscode snippets](vim/vscode-snippet.md)
-- [Day 26 - vscode refactor](vim/vscode-refactor.md)
-- [Day 27 - VSpaceCode](vim/VSpaceCode.md)
-- [Day 28 - lazygit](vim/lazygit.md)
 
 ### Vmware
 
 - [How to fix VMware-16.2.3 error after upgrading ubuntu to 22.04](vmware/vmware-16.2.3-in-ubuntu-22.04.md)
+
+### Vscode
+
+- [Day 19 - vscode file operation](vscode/vscode-file-operation.md)
+- [Day 20 - vscode windows operation](vscode/vscode-windows-operation.md)
+- [Day 21 - search in vscode](vscode/vscode-search.md)
+- [Day 22 - shortcuts when coding in vscode](vscode/vscode-coding.md)
+- [Day 23 - shortcut-minded](vscode/shortcut-minded.md)
+- [Day 24 - git in vscode](vscode/vscode-git.md)
+- [Day 25 - vscode snippets](vscode/vscode-snippet.md)
+- [Day 26 - vscode refactor](vscode/vscode-refactor.md)
+- [Day 27 - VSpaceCode](vscode/VSpaceCode.md)
+- [Day 28 - lazygit](vscode/lazygit.md)
 
