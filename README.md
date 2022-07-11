@@ -2,11 +2,10 @@
 > Today I Learned
 Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_34 TILs and counting..._
+_35 TILs and counting..._
 
 ---
 ### Categories
-* [.vscode](#.vscode)
 * [Chrome](#chrome)
 * [Keyboard](#keyboard)
 * [Vim](#vim)
@@ -14,13 +13,11 @@ _34 TILs and counting..._
 * [Vscode](#vscode)
 
 ---
-### .vscode
-
-
 ### Chrome
 
 - [Day 31 - Vimium C in chrome](chrome/vimiumC.md)
 - [Day 32 - VimiumC operations within page](chrome/vimiumC-within-page.md)
+- [Day 33 - search in VimiumC](chrome/vimiumC-search.md)
 
 ### Keyboard
 
