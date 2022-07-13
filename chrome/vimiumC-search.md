@@ -1,10 +1,10 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-07-11 09:54:02
- * @LastEditTime: 2022-07-11 10:45:31
+ * @LastEditTime: 2022-07-13 10:24:22
  * @Description: 
 -->
-# Day 33 - search in VimiumC
+# Day 33 - VimiumC search operations 
 
 * `o` -> show the versatile search bar
   * `link` -> open in current tab

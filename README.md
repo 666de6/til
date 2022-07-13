@@ -2,7 +2,7 @@
 > Today I Learned
 Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_36 TILs and counting..._
+_37 TILs and counting..._
 
 ---
 ### Categories
@@ -15,10 +15,11 @@ _36 TILs and counting..._
 ---
 ### Chrome
 
-- [Day 31 - Vimium C in chrome](chrome/vimiumC.md)
+- [Day 31 - VimiumC in chrome](chrome/vimiumC.md)
 - [Day 32 - VimiumC operations within page](chrome/vimiumC-within-page.md)
-- [Day 33 - search in VimiumC](chrome/vimiumC-search.md)
+- [Day 33 - VimiumC search operations](chrome/vimiumC-search.md)
 - [Day 34 - VimiumC tab operation](chrome/vimiumC-tab.md)
+- [Day 35 - VimiumC other operations](chrome/vimiumC-others.md)
 
 ### Keyboard
 
