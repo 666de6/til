@@ -1,7 +1,7 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-07-14 16:50:23
- * @LastEditTime: 2022-07-14 17:16:20
+ * @LastEditTime: 2022-07-14 17:23:51
  * @Description: 
 -->
 # Day 36 - devTools in Chrome
@@ -16,4 +16,4 @@
 * `cmd + k` -> clear console panel
 * `cmd + [ / ]` -> switch between panels
 * `cmd + shift + p` -> search command
-* `cmd + p` -> search file in source panel
+* `cmd + p` -> search file
