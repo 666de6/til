@@ -2,7 +2,7 @@
 > Today I Learned
 Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_43 TILs and counting..._
+_44 TILs and counting..._
 
 ---
 ### Categories
@@ -34,6 +34,7 @@ _43 TILs and counting..._
 - [Day 39 - zellij(iTerm plugin)](iTerm/zellij.md)
 - [Day 40 - zellij advanced operations](iTerm/zellij-advance.md)
 - [Day 41 - zsh-vi-mode](iTerm/zsh-vi-mode.md)
+- [Day 42 - zsh-vi-mode advance](iTerm/zsh-vi-mode-advance.md)
 
 ### Keyboard
 
