@@ -1,7 +1,7 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-07-19 22:11:46
- * @LastEditTime: 2022-07-23 18:38:52
+ * @LastEditTime: 2022-07-24 16:37:45
  * @Description: 
 -->
 # Day 43 - zsh plugins
@@ -14,7 +14,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${zsh_custom:-~/.oh-m
 ```
 
 **config**
-add it into plugin list in `~/.zshrc` 
+> add it into plugin list in `~/.zshrc` 
 ```bash
 plugins = (
   # other plugins...
@@ -22,7 +22,7 @@ plugins = (
 )
 ```
 **usage**
-select by `right (->)`
+> select by `right (->)`
 
 **change style** (config in .zshrc)
 ```bash
@@ -36,7 +36,7 @@ zsh_autosuggest_highlight_style="fg= #ﬀ00ﬀ,bg=cyan,bold,underline"
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 **config**
-add it into plugin list in `~/.zshrc` 
+> add it into plugin list in `~/.zshrc` 
 ```bash
 plugins = (
   # other plugins...
@@ -66,11 +66,11 @@ https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/copyfile
 ## web-search
 https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/web-search
 
-add new website(config in .zshrc)
+>add new website(config in .zshrc)
 ```bash
 ZSH_WEB_SEARCH_ENGINES=(yt "https://www.youtube.com/results?search_query=")
 ```
-usage
+**usage**
 ```bash
 web_search yt xxxxx
 # you can config alias in .zshrc, such as "alias yt=web_search yt"
