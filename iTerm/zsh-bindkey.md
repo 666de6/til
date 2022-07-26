@@ -1,7 +1,7 @@
 <!--
  * @Author: Ada J
  * @Date: 2022-07-19 22:11:46
- * @LastEditTime: 2022-07-24 16:21:18
+ * @LastEditTime: 2022-07-24 16:39:16
  * @Description: 
 -->
 # Day 44 - zsh shortcuts - bindkey
