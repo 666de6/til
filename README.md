@@ -2,7 +2,7 @@
 > Today I Learned
 Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_49 TILs and counting..._
+_50 TILs and counting..._
 
 ---
 ### Categories
@@ -48,6 +48,7 @@ _49 TILs and counting..._
 - [Day 45 - Manico](mac/Manico.md)
 - [Day 46 - moom](mac/moom.md)
 - [Day 47 - alfred](mac/alfred.md)
+- [Day 48 - alfred clipboard](mac/alfred-clipboard.md)
 
 ### Vim
 
