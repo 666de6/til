@@ -1,24 +1,20 @@
-# TIL
-> Today I Learned
-Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
+# TIL(Today I Learned)
+>Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_54 TILs and counting..._
+_55 TILs and counting..._
 
 ---
 ### Categories
-* [.vscode](#.vscode)
 * [Chrome](#chrome)
 * [Iterm](#iTerm)
 * [Keyboard](#keyboard)
 * [Mac](#mac)
+* [Ubuntu](#ubuntu)
 * [Vim](#vim)
 * [Vmware](#vmware)
 * [Vscode](#vscode)
 
 ---
-### .vscode
-
-
 ### Chrome
 
 - [Day 31 - VimiumC in chrome](chrome/vimiumC.md)
@@ -53,6 +49,10 @@ _54 TILs and counting..._
 - [Day 50 - alfred workflows](mac/alfred-workflow.md)
 - [Day 51 - mac system hotkey](mac/mac-hotkey-system.md)
 - [Day 52 - mac finder hotkey](mac/mac-hotkey-finder.md)
+
+### Ubuntu
+
+- [Connect to specific WiFi network by shortcut(on ubuntu 22.04)](ubuntu/wifi.md)
 
 ### Vim
 
