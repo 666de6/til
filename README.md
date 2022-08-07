@@ -1,7 +1,7 @@
 # TIL(Today I Learned)
 >Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_56 TILs and counting..._
+_58 TILs and counting..._
 
 ---
 ### Categories
@@ -10,6 +10,7 @@ _56 TILs and counting..._
 * [Iterm](#iTerm)
 * [Keyboard](#keyboard)
 * [Mac](#mac)
+* [Obsidian](#obsidian)
 * [Ubuntu](#ubuntu)
 * [Vim](#vim)
 * [Vmware](#vmware)
@@ -54,6 +55,11 @@ _56 TILs and counting..._
 - [Day 51 - mac system hotkey](mac/mac-hotkey-system.md)
 - [Day 52 - mac finder hotkey](mac/mac-hotkey-finder.md)
 - [Day 53 - mac text hotkey](mac/mac-hotkey-text.md)
+
+### Obsidian
+
+- [Day 54 - Using vim in obsidian](obsidian/obsidian-vim.md)
+- [Day 55 - file operations](obsidian/obsidian-file.md)
 
 ### Ubuntu
 
