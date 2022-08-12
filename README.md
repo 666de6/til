@@ -63,6 +63,7 @@ _61 TILs and counting..._
 - [Day 55 - file operations](obsidian/obsidian-file.md)
 - [Day 56 - edit in obsidian](obsidian/obsidian-edit.md)
 - [Day 57 - obsidian double link](obsidian/obsidian-double-link.md)
+- [Day 58 - obsidian search & global actions](obsidian/obsidian-search.md)
 
 ### Ubuntu
 
