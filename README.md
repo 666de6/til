@@ -1,13 +1,13 @@
 # TIL(Today I Learned)
 >Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_60 TILs and counting..._
+_61 TILs and counting..._
 
 ---
 ### Categories
-* [.vscode](#.vscode)
 * [Chrome](#chrome)
 * [Iterm](#iTerm)
+* [Javascript](#javaScript)
 * [Keyboard](#keyboard)
 * [Mac](#mac)
 * [Obsidian](#obsidian)
@@ -17,9 +17,6 @@ _60 TILs and counting..._
 * [Vscode](#vscode)
 
 ---
-### .vscode
-
-
 ### Chrome
 
 - [Day 31 - VimiumC in chrome](chrome/vimiumC.md)
@@ -39,6 +36,10 @@ _60 TILs and counting..._
 - [Day 42 - zsh-vi-mode advance](iTerm/zsh-vi-mode-advance.md)
 - [Day 43 - zsh plugins](iTerm/zsh-plugins.md)
 - [Day 44 - zsh shortcuts - bindkey](iTerm/zsh-bindkey.md)
+
+### Javascript
+
+- [What Are CJS, AMD, UMD, ESM, System, and IIFE?](javaScript/modularization.md)
 
 ### Keyboard
 

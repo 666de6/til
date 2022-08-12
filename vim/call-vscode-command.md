@@ -9,9 +9,11 @@
 > config in setting.json by field "commands"
 
 **format**
-`shift + alt + F` -> `leader + f + d`
+* `shift + alt + F` -> `leader + f + d`
+
 **rename**
-`f2` -> `leader + r + n` 
+* `f2` -> `leader + r + n` 
+
 **fold**
-`alt + cmd + [` -> `leader + [`
+* `alt + cmd + [` -> `leader + [`
 
