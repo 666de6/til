@@ -1,7 +1,7 @@
 # TIL(Today I Learned)
 >Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_63 TILs and counting..._
+_64 TILs and counting..._
 
 ---
 ### Categories
@@ -10,6 +10,7 @@ _63 TILs and counting..._
 * [Javascript](#javaScript)
 * [Keyboard](#keyboard)
 * [Mac](#mac)
+* [Npm](#npm)
 * [Obsidian](#obsidian)
 * [Ubuntu](#ubuntu)
 * [Vim](#vim)
@@ -56,6 +57,10 @@ _63 TILs and counting..._
 - [Day 51 - mac system hotkey](mac/mac-hotkey-system.md)
 - [Day 52 - mac finder hotkey](mac/mac-hotkey-finder.md)
 - [Day 53 - mac text hotkey](mac/mac-hotkey-text.md)
+
+### Npm
+
+- [How to publish a scoped package in private registry and install it from multiple registry?](npm/scope.md)
 
 ### Obsidian
 
