@@ -1,7 +1,7 @@
 # TIL(Today I Learned)
 >Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_64 TILs and counting..._
+_66 TILs and counting..._
 
 ---
 ### Categories
@@ -12,6 +12,7 @@ _64 TILs and counting..._
 * [Mac](#mac)
 * [Npm](#npm)
 * [Obsidian](#obsidian)
+* [Typescript](#typescript)
 * [Ubuntu](#ubuntu)
 * [Vim](#vim)
 * [Vmware](#vmware)
@@ -69,6 +70,11 @@ _64 TILs and counting..._
 - [Day 56 - edit in obsidian](obsidian/obsidian-edit.md)
 - [Day 57 - obsidian double link](obsidian/obsidian-double-link.md)
 - [Day 58 - obsidian search & global actions](obsidian/obsidian-search.md)
+
+### Typescript
+
+- [Statically typed programming languages' type system](typescript/type-system-categories.md)
+- [Types and Operations in TS type system](typescript/types-and-operations-in-TS.md)
 
 ### Ubuntu
 
