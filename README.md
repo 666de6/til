@@ -1,7 +1,7 @@
 # TIL(Today I Learned)
 >Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_73 TILs and counting..._
+_74 TILs and counting..._
 
 ---
 ### Categories
@@ -86,6 +86,7 @@ _73 TILs and counting..._
 
 - [Build a minimum local http experiment on Ubuntu](ubuntu/local-http-experiment.md)
 - [Connect to specific WiFi network by shortcut(on ubuntu 22.04)](ubuntu/wifi.md)
+- [Decrypt HTTPS(TLS) traffic via Chrome and Wireshark on Ubuntu 22.04](ubuntu/decrypt-tls-chrome-wireshark.md)
 - [How to Record Your Screen in Ubuntu With SimpleScreenRecorder?](ubuntu/record-screen.md)
 
 ### Vim
