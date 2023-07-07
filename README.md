@@ -1,10 +1,11 @@
 # TIL(Today I Learned)
 >Taking notes of new things I've learned everyday. I bet we all have the same experience, it takes a long time to figure out something we really confused, but a couple of months(even days) later, we totally forgot when we wanna use. I start trying to write these down, so that I can look up if I forgot. 
 
-_74 TILs and counting..._
+_75 TILs and counting..._
 
 ---
 ### Categories
+* [Algorithm](#algorithm)
 * [Chrome](#chrome)
 * [Iterm](#iTerm)
 * [Javascript](#javaScript)
@@ -19,6 +20,10 @@ _74 TILs and counting..._
 * [Vscode](#vscode)
 
 ---
+### Algorithm
+
+- [Algorithm Challenge](algorithm/algorithm-challenge.md)
+
 ### Chrome
 
 - [Day 31 - VimiumC in chrome](chrome/vimiumC.md)
