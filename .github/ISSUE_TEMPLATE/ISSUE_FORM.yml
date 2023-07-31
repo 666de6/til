@@ -11,7 +11,7 @@ body:
       label: What do you learn today?
       description: Say something if you want..
       placeholder: Today I learned...
-      value: ""
+      value: "I learned..."
     validations:
       required: false
 
