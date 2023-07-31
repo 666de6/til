@@ -1,6 +1,6 @@
 name: Algorithm Challenge
 description: 
-title: "[Algorithm Challenge_"`r format(Sys.time(), '%d %B, %Y')`"]: XXX(Data Structure/algorithm)_XXX(tricks)"
+title: "[Algorithm Challenge_'`r format(Sys.time(), '%d %B, %Y')`']: XXX(Data Structure/algorithm)_XXX(tricks)"
 labels: ['Algorithm']
 body:
   - type: markdown
