@@ -1,4 +1,5 @@
 name: Algorithm Challenge
+description: an algorithm practice
 title: "[Algorithm Challenge_'`r format(Sys.time(), '%d %B, %Y')`']: XXX(Data Structure/algorithm)_XXX(tricks)"
 labels: ['Algorithm']
 body:
