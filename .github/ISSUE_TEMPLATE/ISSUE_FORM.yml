@@ -1,18 +1,18 @@
 name: Algorithm Challenge
 description: an algorithm practice
-title: "[Algorithm Challenge_'`r format(Sys.time(), '%d %B, %Y')`']: XXX(Data Structure/algorithm)_XXX(tricks)"
+title: "[Algorithm Challenge_Jul 31]: XXX(Data Structure/algorithm)_XXX(tricks/mind)"
 labels: ['Algorithm']
 body:
   - type: markdown
     attributes:
-      value: Glad to see you again! Keep going!
+      value: |
+        Glad to see you again! Keep going!
   - type: textarea
     id: note
     attributes:
       label: What do you learn today?
       description: Say something if you want..
       placeholder: Today I learned...
-      value: "I learned..."
     validations:
       required: false
 
