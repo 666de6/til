@@ -1,0 +1,25 @@
+name: Update Readme
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  execute_script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Update readme.md
+      run: python createReadme.py
+      
+    - name: Commit chart
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update table of content"
+        git push   
